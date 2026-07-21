@@ -5,7 +5,7 @@
 -->
 
 <h4 align="center"> 
- Building Software products and technology that help people and businesses.
+ Building B2B & B2C Software products and technology that help people and businesses.
 </h4>
 
   Prajapatt focused on creating useful, reliable, and innovative products that solve real-world problems through technology.
