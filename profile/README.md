@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../images/prajapatt.png" alt="Prajapatt">
+  <img src="../assets/prajapatt.png" alt="Prajapatt">
 </p>
 
 <h4 align="center"> 
